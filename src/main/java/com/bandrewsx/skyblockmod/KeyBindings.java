@@ -1,4 +1,4 @@
-package com.example.skyblockmod.keys;
+package com.bandrewsx.skyblockmod.keys;
 
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
 import net.fabricmc.fabric.api.client.keybinding.v1.KeyBindingHelper;
