@@ -1,4 +1,4 @@
-package com.example.skyblockmod.hud;
+package com.bandrewsx.skyblockmod.hud;
 
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.rendering.v1.HudRenderCallback;
